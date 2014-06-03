@@ -1,0 +1,14 @@
+{
+  "gitTree": {
+    "path": "gitTree",
+    "url": "git://github.com/alessioalex/git-tree.git"
+  },
+  "gitCommits": {
+    "path": "gitCommits",
+    "url": "git://github.com/alessioalex/git-commits.git"
+  },
+  "gitGrep": {
+    "path": "gitGrep",
+    "url": "git://github.com/alessioalex/git-grep.git"
+  }
+}
